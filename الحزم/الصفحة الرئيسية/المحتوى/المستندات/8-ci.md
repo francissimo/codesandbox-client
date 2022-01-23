@@ -58,7 +58,7 @@ These are all the configuration options you can set. They are all optional.
   // Which script in package.json to run to install instead of `npm ci` or `yarn install`,
   // can be `false` if you want to skip this step.
   "installCommand": "install",
-  // Which script in package.json to run to build,
+  // Which script in package.json toj run to build,
   // can be `false` if you want to skip this step.
   "buildCommand": "build",
   // If you have a monorepo, put the paths of the packages here. We'll infer the package names.
